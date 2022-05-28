@@ -2,9 +2,10 @@
 
 >*Describe the issue in detail and link any related teamwork tickets*
 
+
 ---
-## Proof of Replication
->*If you managed to replicate the issue add any proof here. screenshots/images, what you did are all helpful*
+## Associated PR
+>*If this is a composer update, link to the PR of the package*
 
 ---
 ## Resolution
@@ -14,4 +15,4 @@
 ## Checklist
 
 - [ ] Changes have been tested in Development with no issues
-- [ ] Changes have been tested in Staging ( if applicable ) with no issues
+
