@@ -12,6 +12,7 @@
 
 - [ ] Changes have been tested in Development with no issues
 - [ ] I have tested the checkout process on the Development site
+- [ ] I have tested the changes on multiple browsers / devices (if applicable)
 
 ---
 
